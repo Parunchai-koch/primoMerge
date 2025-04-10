@@ -1,5 +1,11 @@
 ## Setup Dependency
 
+Run this command to install all dependencies:
+
+```bash
+npm install
+```
+
 This will install all required packages listed in `package.json`, including `ts-node`, `typescript`, and `vitest`.
 
 ## Execute Code
