@@ -1,4 +1,18 @@
+## Cloning Repository
+
+Run this command to clone repository:
+
+```bash
+git clone https://github.com/Parunchai-koch/primoMerge.git
+```
+
 ## Setup Dependency
+
+Change to the `primoMerge` directory to install dependencies:
+
+```bash
+cd .\primoMerge
+```
 
 Run this command to install all dependencies:
 
@@ -13,7 +27,7 @@ This will install all required packages listed in `package.json`, including `ts-
 Change to the `src` directory where the TypeScript code is located:
 
 ```bash
-cd src
+cd .\src
 ```
 
 To execute the TypeScript code, run the following command:
