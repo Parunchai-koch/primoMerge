@@ -4,7 +4,7 @@ This will install all required packages listed in `package.json`, including `ts-
 
 ## Execute Code
 
-Change to the `src` directory where your TypeScript code is located:
+Change to the `src` directory where the TypeScript code is located:
 
 ```bash
 cd src
